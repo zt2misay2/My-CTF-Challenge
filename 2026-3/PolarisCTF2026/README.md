@@ -13,7 +13,7 @@ https://www.ctfplus.cn/competition/hall?competitionId=2031260122948308992
 | ECC            | SeanDictionary | easy       | solved   | 250       | 101    |
 | Whisper Line   | MiraihaN       | moderate   | reviewed | 5         | 930    |
 | ocean          | DexterJie      | hard       | solved   | 29        | 664    |
-| 缁佺偟顫濈€?   | Wbuildings     | easy       | solved   | 121       | 144    |
+| 神秘学   | Wbuildings     | easy       | solved   | 121       | 144    |
 | sda            | collapsar      | moderate   | solved   | 214       | 214    |
 | ez_random      | Chestnut       | hard       | solved   | 23        | 723    |
 | truck          | DexterJie      | easy       | solved   | 133       | 133    |
