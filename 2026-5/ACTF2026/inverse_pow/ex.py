@@ -2,8 +2,8 @@ from pwn import *
 from advance_solver import attack_pow
 import time
 
-TEAM_NAME = 'DAWN'
-TEAM_TOKEN = '5cd2ea3b0cea74b762a2905a64c63a33'
+TEAM_NAME = ''
+TEAM_TOKEN = ''
 HOST = "1.95.44.158"
 PORT = 11314
 
